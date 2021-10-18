@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3LSMRhHh7dXeo3jEDHLbYlh1VorbuEO90PPi8/62AFpcnFedg3A1R7Frx83NTUtJxUDONgeOifvGaK2oxX2PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mimi\\RiderProjects\\Library\\IteratorsAndComparators\\IteratorsAndComparators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
